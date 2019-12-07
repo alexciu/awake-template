@@ -11,7 +11,7 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'Auto Crono',
   tagline: 'Cronometrare concursuri auto / Scoala de pilotaj sportiv / Organizator de concursuri automobilistice',
-  featureImage: '/uploads/home-hero.jpg',
+  featureImage: '/uploads/hero_new.jpg',
   logo: '/logop.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
