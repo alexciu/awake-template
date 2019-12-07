@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Auto Crono',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  tagline: 'Cronometrare concursuri auto / Scoala de pilotaj sportiv / Organizator de concursuri automobilistice',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
