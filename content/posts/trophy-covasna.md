@@ -9,15 +9,11 @@ featureImage: /uploads/off-road-trophy-covasna-2019.jpg
 ---
 # TROPHY COVASNA
 
-
-
 Evenimentul se va derula in jurul stațiunii **Covasna** pe data de **7 decembrie 2019**.
 
 Competitorii de data aceasta, trebuie să meargă pe urmele lui Moș Nicolae, pentru a găsi sacoșa cu cadouri respectiv a obține victoria finală.
 
 Sunt așteptate autovehicule 4x4, categorizate in funcție de dotarea mașinilor: OPEN, STANDARD. Categoria Standard se împarte și in funcție de capacitatea cilindrică a motorului.
-
-
 
 Programul ediției:
 
@@ -28,11 +24,7 @@ Programul ediției:
 * Ora: 17.00 FESTIVITATEA DE PREMIERE
 * Ora: 18.00 MASĂ FESTIVĂ
 
-
-
 Taxa de înscriere **175 lei/pers**
-
-
 
 Eveniment este sustinut de: **Primăria Covasna, Ocolul Silvic Covasna si AVPS Catrușa Transylvaniahunt.**
 
